@@ -31,14 +31,6 @@ namespace TestesUnitarios.Desafio.Console.Services
             return lista.Min();
         }
 
-        public List<int> MultiplicarNumerosLista(List<int> lista)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<int> MultiplicarNumerosLista(List<int> lista, List<int> resultadoEsperado)
-        {
-            throw new NotImplementedException();
-        }
+      
     }
 }
